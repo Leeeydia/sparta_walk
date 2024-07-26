@@ -12,3 +12,4 @@ checkAge(20);
 checkAge(15);
   // 함수 실행
 // ㅎ
+// test

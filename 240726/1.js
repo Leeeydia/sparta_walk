@@ -3,4 +3,4 @@ function printFruits(a, b) {
 }
 
 console.log( printFruits("사과", "오렌지") );
-// ㅎ
+
